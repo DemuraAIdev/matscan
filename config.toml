@@ -1,6 +1,6 @@
 # see src/config.rs for all options and descriptions
 
-mongodb_uri = 'mongodb://REPLACEME'
+mongodb_uri = 'mongodb://cyberai:min2kota@random-stuf-mongo-b84e37:27017'
 
 # packets per second
 rate = 100_000
