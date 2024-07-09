@@ -24,7 +24,7 @@ enabled = true
 rescan_every_secs = 3600
 
 [rescan2]
-enabled = false
+enabled = true
 rescan_every_secs = 600
 limit = 10_000
 [rescan2.filter]
